@@ -2,8 +2,8 @@
   "name": "file-downloader",
   "displayName": "File Downloader",
   "description": "Allows users to select files via a dialog and download them as a single text file",
-  "version": "0.1.0",
-  "publisher": "your-publisher-name",
+  "version": "0.1.1",
+  "publisher": "raju-file-downloader",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/vscode-file-downloader.git"
+    "url": "https://github.com/RajuGangitla/vscode-file-downloader"
   },
   "icon": "icon.png"
 }
