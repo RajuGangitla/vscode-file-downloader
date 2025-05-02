@@ -1,6 +1,6 @@
 {
-  "name": "file-downloader",
-  "displayName": "File Downloader",
+  "name": "quick-pickdown",
+  "displayName": "Quick Pick & Download",
   "description": "Allows users to select files via a dialog and download them as a single text file",
   "version": "0.1.1",
   "publisher": "raju-file-downloader",
@@ -45,6 +45,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/RajuGangitla/vscode-file-downloader"
-  },
-  "icon": "icon.png"
+  }
 }
