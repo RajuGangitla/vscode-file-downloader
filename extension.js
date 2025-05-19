@@ -57,7 +57,7 @@ function activate(context) {
                     
                     // Manually filter out any remaining framework-specific directories (simplified)
                     const frameworkDirs = [
-                        'node_modules', '.git'
+                        'node_modules', '.git', ".next"
                     ];
                     const filteredFiles = files;  // Don't filter further for now
                     
